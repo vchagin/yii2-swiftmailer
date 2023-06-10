@@ -1,7 +1,7 @@
 {
-    "name": "yiisoft/yii2-swiftmailer",
-    "description": "The SwiftMailer integration for the Yii framework",
-    "keywords": ["yii2", "swift", "swiftmailer", "mail", "email", "mailer"],
+    "name": "vchagin/yii2-swiftmailer",
+    "description": "Fork of the SwiftMailer integration for the Yii framework for support PHP 8.2",
+    "keywords": ["yii2", "swift", "swiftmailer", "mail", "email", "mailer", "php8.2"],
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
     "support": {
